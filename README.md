@@ -1,6 +1,6 @@
 ![Screenshot of the theme](preview.png "Preview")
 
-# Chili login theme for KDE Plasma
+# Slacker login theme for KDE Plasma
 
 Slacker is hot, just like a real chili! Spice up the login experience for your users, your family and yourself. Slacker reduces all the clutter and leaves you with a clean, easy to use, login interface with a modern yet classy touch.
 
